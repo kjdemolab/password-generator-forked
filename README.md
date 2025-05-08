@@ -3,7 +3,7 @@
   runs inside your browser.
 
 __Looking to use Password Generator? Head
-[here](https://calebj0seph.github.io/password-generator)!__
+
 
 ## About
 Password Generator is a web app that generates random passwords inside your
