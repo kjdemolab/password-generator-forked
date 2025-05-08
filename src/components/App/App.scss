@@ -47,11 +47,11 @@ body {
 }
 
 // Hide the 'Fork me on GitHub' ribbon on small screens
-@media (max-width: 899px) {
-  .github-fork-ribbon {
-    opacity: 0;
-    visibility: hidden;
-    transition: visibility 0s linear 0.15s, opacity 0.15s ease-out;
+//@media (max-width: 899px) {
+  //.github-fork-ribbon {
+  //  opacity: 0;
+  //  visibility: hidden;
+  //  transition: visibility 0s linear 0.15s, opacity 0.15s ease-out;
   }
 }
 
